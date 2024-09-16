@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /home/ec2-user/shop-api
+    destination: /Users/Yauheniya_Seviarynets/folder/nestjs-rest-api/
 file_exists_behavior: RETAIN
 hooks:
   BeforeInstall:
